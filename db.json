@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "price": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "price": 2.5,
+      "active": false
+    },
+    {
+      "id": "12",
+      "name": "sdsd",
+      "price": "1212"
+    },
+    {
+      "id": 17,
+      "name": "vannila",
+      "price": 6,
+      "active": true
+    },
+    {
+      "id": "28",
+      "name": "food",
+      "price": "123"
+    },
+    {
+      "id": "6",
+      "name": "choclate",
+      "price": 20
+    },
+    {
+      "name": "kitKat",
+      "price": "123",
+      "id": "10"
+    }
+  ]
+}
